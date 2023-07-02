@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashpratap12
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python Pogramming
+- 👀 I’m interested in C++, Python, Web development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me yashprataps992@gmail.com
 
